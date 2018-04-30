@@ -207,6 +207,13 @@ footer{
         max-width: 748px;
         margin: 20px;
     }
+    #contact{
+        max-width: 748px;
+        margin: 20px;
+    }
+    #connect{
+        height: 280px;
+    }
 }
 
 @media only screen and (max-width: 768px){
@@ -217,6 +224,14 @@ footer{
     #content{
         max-width: 620px;
         margin: 20px;
+    }
+    #contact{
+        width: 100%;
+        margin: 0;
+    }
+    #connect{
+        height: 280px;
+        margin-left: 5px;
     }
 }
 
